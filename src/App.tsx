@@ -5,7 +5,9 @@
 // import ToggleComponent from "./components/ToggleBackgroundColor/ToggleComponent";
 // import HiddenSearch from "./components/HIddenSearch/HiddenSearch";
 
-import Testimonials from "./components/Testimonials/Testimonials";
+// import Accordion from "./components/Accordion/Accordion";
+
+// import Testimonials from "./components/Testimonials/Testimonials";
 
 const App = () => {
   return (
@@ -16,7 +18,8 @@ const App = () => {
       {/* <Calculator /> */}
       {/* <ToggleComponent /> */}
       {/* <HiddenSearch /> */}
-      <Testimonials />
+      {/* <Testimonials /> */}
+      {/* <Accordion /> */}
     </div>
   );
 };
