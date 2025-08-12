@@ -3,7 +3,9 @@
 // import Meals from "./components/Meals/Meals";
 // import Calculator from "./components/Calculator/Calculator";
 // import ToggleComponent from "./components/ToggleBackgroundColor/ToggleComponent";
-import HiddenSearch from "./components/HIddenSearch/HiddenSearch";
+// import HiddenSearch from "./components/HIddenSearch/HiddenSearch";
+
+import Testimonials from "./components/Testimonials/Testimonials";
 
 const App = () => {
   return (
@@ -13,7 +15,8 @@ const App = () => {
       {/* <Meals /> */}
       {/* <Calculator /> */}
       {/* <ToggleComponent /> */}
-      <HiddenSearch />
+      {/* <HiddenSearch /> */}
+      <Testimonials />
     </div>
   );
 };
